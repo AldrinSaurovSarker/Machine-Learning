@@ -109,4 +109,5 @@ def KNNBasedPredictionSystem(file_url, split=0.2):
     print('Accuracy of the model : ',  accuracy_score(x_test, y_pred), '%')
 
 
-KNNBasedPredictionSystem('C:/Users/WiNter Boy/Desktop/Database for Data Science/Iris.csv', 0.2)
+url = 'Put the full url of Iris.csv'
+KNNBasedPredictionSystem(url, 0.2)
