@@ -1,0 +1,5 @@
+1. Algorithm : K-nearest Neighbour
+2. Dataset   : Iris.csv dataset.
+	       There are 150 flowers of 3 species of iris.
+3. Goal	     : Detect which specics a flower is by given attribute.
+4. Accuracy  : 97%-100%.
